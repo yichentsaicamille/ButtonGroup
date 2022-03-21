@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #f5f2e6;
+  color: #000;
+}
+.basicWrap {
+  margin: 20px;
+}
+.question {
+  color: rgb(9, 85, 148);
+}
